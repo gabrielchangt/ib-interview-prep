@@ -1,0 +1,960 @@
+{
+  "week": "2026-W41",
+  "from": "2026-10-05",
+  "to": "2026-10-11",
+  "top": [
+    "n9e0b1d75",
+    "n0e349e3c",
+    "n25a971ff",
+    "n1974a93e",
+    "n587598f2"
+  ],
+  "items": [
+    {
+      "id": "n9e0b1d75",
+      "title": "Nvidia-backed Firmus delaying planned Australia IPO - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb090eHNSU3ZZOGpSdXhHNWhXdW5vemtpTUtOTEYwdDk5WlBqZ0tEMVZFMjhIVUExU2d4ellXSkhBdDR2ZXRDS24wajdQWnJHZFgyem01VEw3S3Y4WWc3R0FMSFRjMDNieHpLeWxUbTByd0xzUVhOWnZvN215eHJJQVBBcXpwVU5jQTBpazVXRU52c0E1YVBEMzNzU0stRE9F?oc=5",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-10-08T19:08:11.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "APAC",
+      "excerpt": "Nvidia-backed Firmus delaying planned Australia IPO - Bloomberg Seeking Alpha",
+      "score": 213.1,
+      "alsoCoveredBy": [
+        {
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOUc1bG1fSzI0dEo0bmZvV2sxdTYwT2w0dUEwdGtDalBCc2pfOFFGT1kzVlRjWFhtQ2NMMm9kR3NSekNtR1hPMGpBN0JtdExzWVlqRGlwY2NkS0xnVXNubnJlODhwcVgxZG1raVIxQzVqNFRxOHpHY1hDQ3ZoakRzbURaMkstX1VONWlvc3lnSVFsb1FMdW0wbUV5bTBqN3UxaW82OGFRbFJkbmJwQ0xxOXYxemM4MkhJRnk5eVgwTk1aX01jVkdzRk5Rb2FtS19pOHJTTGZuTGNaUF9uR1J3?oc=5"
+        },
+        {
+          "source": "U.S. News - Money",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdTNUTHVrY29oMGRoTVgxV0oxd0hjNHJoX2RxT0tpUDZLWDlCSVlWUERBeDZlOE84dWtMV3oxaUJsYjFrdUd3M1l4QmV6ektwNW5rUW0wRVFUUmxQWVVlRzZPNmtvSXdzbXlzZ19OWFNPd2NJLXdwNkoyWEpoTElUSzU2N3otTkR1Sk5SaUtndHBTc1M4MXZLcFk5MDVkSlFJU2tWMndzSXR3V211a0tyaklJZzNuSW9HeXJscnRUcE9ZSnJSdkE?oc=5"
+        },
+        {
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWTBWUFMtSjhqNTFpTXJDbTJNVnVqblBYcnRmQWUtT2NpOElGdW5vVXRqMzh5QlJTY3RiLUgwd1hOT05EM0VUUGhBVERSQU1XZk9QT0RXalNNTksxME9Gd1c5V2RZdVdvZndHUXhmaXg4SWpuemRMN1NadTZEd2Z0bTMtUld6dFk0YzJQYWFsaERsYzMtTGhON3Z6MW4wOUtBQ3lRRGFJTGxzVGlYYllTTGs4ZmpicEE3QVV4dlROMExWTko2WHJncmY3WGY?oc=5"
+        },
+        {
+          "source": "Finimize",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbG1SQjh5c1ZHNkNOaUNldWh6ODhscGFkR054ai1RWnlxMERKYUhPUmM4UmZDM1VBcXFZLVpRaHA4RnRoNWJNZlpvSGgyWFBZaUVtdV9YTHd2d0xxQWp1TVc5LVNNS0h4UlRrUHdIQkRvMWlnQ05IUnVBVmN2Q1JaWngxY2N5ZTVtYWE2aQ?oc=5"
+        },
+        {
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUXRHN1ZtemRMdlBCRXptM2swX0swV2J5SjFhelhyN0htRzFmaGk2LUdlLWFyUDJQQ3JLZ0RJdElnY1lVX2J5VWprUWlFWFFTaXByX252NjdXVVk2anI1SVpZQUc5YUZLNENndDdKQ3FJT3NIRWNoY1VRcUM5V29hSll5c0JhTmM0ZnJ3OGRSbkhpdmhHWXlpNERGM2RIeFVPNDV4WGg0SVBXZ3c?oc=5"
+        },
+        {
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY21BNU1iQlJDajVWejFGYjVrM2J0cllKVmc5WEVZX2tMQnROZGFJRkRDekhCaFY0MzRnYXhYOGNaVi11cFlndVo5b1RIYUpaS25JbV92dVkwVEZpXzVaTWdtR3piN0d6SUI2OW9qaEI4eHVCV1VBQkFBWXhyemttZDlhMlFVa3hQdDhpWVZkLW95cmxNaEFzZGxWb2dzU3VPSzNlNTc4OEF5YXV1LVoxOHZuUzFsMTZfaDJuckx4UQ?oc=5"
+        },
+        {
+          "source": "The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGFzVjU2aGZZUm1rNjllT3dCUXh6eHdsLWhHcWx2OVUzWFEwUjlUUldSSWlMbEt1NWg4REI1NzFIUng4ZEZwMjhUTS13c1FQU29PTFVPWlZ1MGtubElidTMwRXVTY0luV2Job09qMkRCYTItZjN0MFE4WlpCSUU1TkR3WFhLSVhmMGJob0F4RkpqdTBxQUR1UUVjR1EtMVprUXRLeHRGWm95SDBPSkJPYzZGTjgtR3BGUVBlbzhJXzl3MFJ4eExqUVRWaEw?oc=5"
+        },
+        {
+          "source": "95 KQDS",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXhwUEFlQjJzLVV2S2RfTHREYzcyemNSZ25yMms5aFpGM1lvcVRDX2RKX0owV3pTRjhUTlJMVXI2OXM4c1VUampxclEyNGtLckpJWFBTMFZIbGYta0U5MDdkZ29ZeWJzbTZveHpibzlmY0hvaXBweDlwb2wtTTdhYlNtRFpOOVl6SDVWMl81cGM5UlhzR0szZ3NqalE2Nkk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n0e349e3c",
+      "title": "Airtel Money shares slip in debut after biggest London IPO in five years",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYV9lTGprQkVOc0pIUlJ3QkJCNV8xVzIzUVpNWjdIaUVEd2VSeFJBVkNfcF9HQ0ZnQXM1YlZyVnlUYlV5R05zUzViTWhDS1NoUlAyVk9lUjRNWGRaNW4xejBFOXlDYmlndDJUN0xQcmJXNWNfX01XVUJzVE85N2VTOGQ5cDBydw?oc=5",
+      "source": "Yahoo Finance Singapore",
+      "publishedAt": "2026-10-09T02:11:00.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Europe",
+      "excerpt": "Airtel Money shares slip in debut after biggest London IPO in five years Yahoo Finance Singapore",
+      "score": 188.7,
+      "alsoCoveredBy": [
+        {
+          "source": "AskTraders.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeG4wZ3dnV1NWVWNjMVl6ODlfWXZlbEpIcld3MnBzajNIUlZOYVZLZGMzLTlJVmdVbGJIR2R2MUdIeDRTNG8yZTNHYkFJU0p3REowTU5wYmFKRlZJY1dFUUhqTXJfdlBUVmZGTE9MdHZ1OHhNWE4yRUVnM2pMbXhNcFRzQjhJVXpDa01yUWFpdHo4ZmZHNGF0Qnl1a3JiRkx4cjJ1ZUYybw?oc=5"
+        },
+        {
+          "source": "CNBC TV18",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUy1sT204Q1hKSExSaDd3ZWg3Z2xVM3RUc0hCQXpMMEIyZkJ6NGgtVXF1R3g3S015dUxSRmZCTENSRS1rS1NYejlkSE9kdjJQSlpWbDBrd2xhWUwzNF92S0JUTEM0R2JGMzZ4b1MxUDNZUHBoM2RvbE1CM0hld1h0Z0lWWkRUTTZPUUZJSVc4R3BOd1RHS3ExSW0wbFNIclpPUE9RZjF1MXY3cXBiZWluRGtjYi0zX0RBWnRZakNIaTd2Z9IBxwFBVV95cUxPWnJsVTI0T0pxTEdmRUdDZlF6Q2JId3VhWjJBZ1dFR1pDUXFBQy1nSnM0RXVYb1ZUVlJLQnJBOXlIT3JrUTc1YTR4SWV4blVfYnZNT2ZvZVZpWkxlY2hvODE4V05FeEhJSVJtc08taVRYWWYtSEVJcWx3dEZ5VF9MdS16bWU4YjhyYzJMcWloeFRKSUpuUUhDazkwTnFvREM1eUJOMXZZcU90NnV2dkZfSldac0w0ME9EMVhCaHBGaVh5VXJuX0JZ?oc=5"
+        },
+        {
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGluNndqUWZza2Z6SGY5R1V3U3AxMlNKMzJ6WDNtRE9sZWhOcE1QdEFRck5lWktEeUxaQVBfUURyRGlzYnoxTjRJZGQ4YmYtbmZMR0dVQ3NISU5vMHBFMzRTZWd2TnhfcXJaMTJWcXlpNVBlTk1MXy1nWEhBejM3SjNXXzN6aGlpdS1XUHZjaDA3eEtWTEtlbHhSVkhQZTlTWHQwQzN4eTcwVlE?oc=5"
+        },
+        {
+          "source": "ET Now",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYndCVERhd1pEUDBQYXdRb2JDRE5zWjZZZmxYNW9rZE5EbkY0elJ6d1Yza2djSVBJRno0T3BxQzNhS0NXUXdPc3pxYUpVeVI4bnlCSjFWY1htMmRaUDFkS0VKX1R6Z0dXTjhzT0dESTA2RW5fdlQ5d0xVZUZKZlVHcXZPNGs4NWNhWFNVR1BjOEpSNEhxNEcxUDdRSFFIcWo3R1dtZUJJRXY1a1R5VkpkSVBBSUVrYmo0Y0ZzV1BKb0VGVzV6U0haQ2xOQ19iQ1Y4N09jdWxJY9IB3AFBVV95cUxNR1hwTjRRX1N1TlNheDliaVRWdGgtSUtwMnF0M1FfUzZ2UThZQjU5QktmM3Iya0dlblMyUkh2V0wtM1k0UFVnQzhEaEpENWJDdml6RVl0N0k1LTBaTUJDVEpHbVZPb0hzcXJJMGJscGd5ZEg1UVUyT2lCX2VYeEZpMTVsMnBSRkFvak5nZnQwWEkzdHBmZmhfd2xUWGlkbjNzQXFPUHZ0N2RNV3l1aXM3SW85UXBtckVPSWFhVFZLZ3FiTmlvODBpR2NnczNHYlpNUUFHLVQwbFdDY1Zv?oc=5"
+        },
+        {
+          "source": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObnBYRGpPREpkNXFNNV9FenFDc1oySXFUVFNOdVMyME5COWgzRS1oY0VuUmp4YmZOQVF0N2xUUGdZaVl3SmZZSVRPaFM4TzFjMDFOQ3VlOURQSnI4NWV4UGdFUVJhYTBqNDZWLTF4dGIwLXNiVzItR3h0WE9uUE9hX3k5aHJmdDRGMkFVMTMzUHJmaWVSckxDYzNVaF9hXzVfZDk2VlIzLXJ3U0JmSlJCNzdJdi1leFB2aFRnRzZYbHFmdDBZaXVOTDBtS3ljRm1pQURlNVlJc3N3MUF3d25wR2g2Tzl5SXU3UzAxZENVZ2FiX01SM0ZWVUg5bzFxaUlEN3ZN0gGIAkFVX3lxTE9Pd25OUWg3QUdVLUhxMHZud3BleEN0OVdqd1h4amdfdV9JeUZ6ak5JRlZYdE5fMFlEbjdkMzY4VFB1NU0yQVUzbFR2dFotQlZOQ3N3amY3SC1SRVNEVGdSbGJKeTdqMlpUUmxQR1Bnbndjb1VNUjdiX1dqTFN1UUR2OFNTd0w2eDVDX0VZb1NXWUxMcmpwc29zZS04ZVpXSEJLaGdtLS1sZEZUS0RZRHFONEJRQ1JWU05HTEw4OGlPeEVZdUxKbDNSa2JYVXIyM2R3VFluU0oyZ0hEZVdZZXRoaHhBUG5XTUU0Sm8taFRSdDdpWmotUWY1MU1TeG1aRmFic0FhMGRVeg?oc=5"
+        },
+        {
+          "source": "City AM",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDVPYTZMQ3FHcjdkUGxqa2VpZVltbnVDemVYSkRmR1dveGZkREhUTzdRMUlZanpETTFFNUVVODFMNzlWVGpxZ2gxQ251SXA3d1VkeWhFYm92V3hZUzExTkVXWm1ySUxKTF9CN2x4YkVMVGhxRDMwLWdUWUJQNGt4al9iaHhkVk9WVjdFZ3RGRXRIb2FKT3lMLU43REY?oc=5"
+        },
+        {
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjd4bC1VdDFMaHV4R05TaUZwTkJiTGVOalZKVDVrajU1X1RHUTQtaVlDdUF5ZTNoVE1JUlJsMnhycE5NeExvR0Rza2t5OElMSVpWU1lsdzdDRE5WLWtsNXFkaVhjMERTY0o2NTFhazJMdmxLdjVvWTlTd2VUTU9WSGhwZzB1T1Azc3hEa0s5UHRBemh3ekJNUm1HYndWemc2UmNEaTFPanRjSjA3TTRXTzNkMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n25a971ff",
+      "title": "Airtel Money eyes African deals after £5.3bn London IPO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUdiZEk4MEpVR0E2al9tUTJacTJtVGZGelFYdDJJZU5JN1pVZjFGbFgxSVdmZXdhSHRUUGIwTzNfckpTSldxUkhDYXpZRVJzOF9GanZnZTRKSzExQ3htRjlBQndqRFF5czkyOFZzd0ZGZ1BISXl2TGhwTm5OTjFVWDBNSDM3bHJ5dVZZRUVTLUxmZlRHaXk5ZDd5bmNfT0VkUVliTGd3TV9ZZWVLNXJyUWNhU19mY3E0dWxGU1o0cl9tZw?oc=5",
+      "source": "Billionaires.Africa",
+      "publishedAt": "2026-10-07T20:36:51.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Europe",
+      "dealSize": "£5.3bn",
+      "excerpt": "Airtel Money eyes African deals after £5.3bn London IPO Billionaires.Africa",
+      "score": 172.3,
+      "alsoCoveredBy": [
+        {
+          "source": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYT0YzZlZVeG8tM1hmcmJZX01uSE9ucDJIT3FXd3ZkbGR1SWRCR0hZcG5BWDJUYi1HUXdPQTIwMElVZDJ2VVd6S3dUV1d5SFhfOE1TUUgxeGx6T1BmemgwUi1idk9SRkdXcEtRVy05YklYMUFTdVE?oc=5"
+        },
+        {
+          "source": "Northwich Guardian",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmQ4d0RRZGpsUjRWTXp6VkMxaC0tSDRzcUlyaHNEd0t3TVo4UEZxWG45UFBDSzVKWUJhV0JOUm9FWU1FVUNuLThKb2prcDE5VVlfX3plbGd5eEJCN1ZSeXVZQS1TTTJ0UjVkZTl2bm5BQjBBWWlaRmtxaEtyYWRmNUZZMk4wcVEwcTZILWZPQVVkMk1iWXJMb0Y2VF9heFlqUGxEYXVFelY1MVZpTkJYVGJHUUVGd09ZOTJ1SEFnVTl3VWQw?oc=5"
+        },
+        {
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tcUh5TXlSTWd4VmZxZDV5MlpGSlVsei1zN3AwRDdaeW05UWVfbEtkWlAzSXFJaTRwTkFlQk52bFhnN2JtdDdTTUI0ODljcnVtZTU5QTFXUGtpbjZpdHNRcVMzblhUdmRsMmNKdWtmZllPV1JEcjdwSmUzR29aQQ?oc=5"
+        },
+        {
+          "source": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHhQU2Jvc0pNdjBoa3ROTzRqV1FXMml5b2JERkZrQkF2aFR2TWRiTXl3cTBVanpLeFhUODNVSUw0UkJFOHZKS0hGeFpLUjBTMXJWTG1Xa1I4ZlUwVnc1dTlHRS1mV2t5TkxNenVIX0ZUZkNhRkltUEVzdlpNcG5NbVQyTTF5alVYMXUzVGtYSjE?oc=5"
+        },
+        {
+          "source": "Free Press Journal",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHJPYUFuYWR2WnlMRGZObno4T2NxVXZ0WTljMWh3UmpPVW9IeTM4UkdaZDFqS3NRaExxdHEwaUthN3B0M29EUng4Z2xrY3E0WEtFd2lFYXpnN1owT0JjdE5oVmsyUUx1VWZqSndBZ2p1SEVDYXFFZGVVMVc0X3BDbGIzdFVtRW4tTG5JY0p4UmNORUt1c1A5WDVzYUU1TVE1NVVFenlmT2I2Q09hQXh2edIBtgFBVV95cUxOV2xtclpKb1JEMVNqdXFQc0VhY1VFMHRubER5dzU0RE9oQjA0eUI5Z2hwdFg1RFFicWdqLW5PbmFTR01HRUNoX294QjFqY2NrQV9ZeDNrY0dQZHZtNnN2aXB0SWVsdXFOQXNsSVVlS1RlMGpmQUpKX3pDcUM1NGFXcGxjdlRxZlJ2Z09FZDNnY3hCelZDalo1UllSWm5LSVhHdTRtMWxHNG44YTFZWFdGc240T0RBZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n1974a93e",
+      "title": "Retension Pharmaceuticals Prices Upsized IPO Of 3.75 Million Shares At $12 Per Share",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNjBON2RMdDRFY3JKalpCcjF1SDBDZU9DaXozdzRpaFBaVkhPX2k4eTdyYXZ3U0lmT3pGUkFFeUdDZTlWaTZPZ2JiSWl1UmdZaVkwZk5ic3EzNDV1Mlp5Z0FmNDZqc0tNR2tLREZTV05mbUpEemR4MnJCaEdrczVYRkVfYnRNNWVrVXJhcGdNOFhJeUlOSkdGcVF0WGcwZFNJaFVMQkx3bVZhUE5Pd2lHSVZSVHJTLXFkc3ZvRzAzenAxSjJWR2ROb2JIdldQYmNVVF9kaERETkU5SVV5aFR0V1l5REU1MmFI?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-10-09T01:36:00.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Europe",
+      "excerpt": "Retension Pharmaceuticals Prices Upsized IPO Of 3.75 Million Shares At $12 Per Share TradingView",
+      "score": 138.6,
+      "alsoCoveredBy": [
+        {
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOS1TS1NpVzVERlBDSUVaN21abHgyQXlpZUlMWDMwZ29GSEZFbzA0TDJXVjBrWmg1aE5hYkE4bXJWNEtiR3RoUklROXU2YVctWHBqMllIUjBKa2g1SkJ6M21IWDdGZURhNDA5Ukd6NURyb012ZWFYdDRSNFJra0hJdmZYVkpVR2E1cjFoNXBtcHB6b2dYVWFMT3VLM2ctY1lrWlNkTDVrRjhBWVdYWVpBQzB2QWlKb2szeXQ2LUc0b2JoVHM?oc=5"
+        },
+        {
+          "source": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalFIRjhRTmF1dThwVjJXRXhkX05FOFlXNE0xRXBuNWJsNktnREhFdy04bkVVanpBb2hkSkd0aDNDcUYzWDlHcXJ5NEROTGhSZ2dCSmhKbG9nSmpIbXVZd19HMUNaMTMyWHlzOXQ1aGIzcUx4SlpaLU9yeUlTUUkwd2tpaVlxTGdkaUpKRGRuOVFtQzlVTF9FbnFfa3Y4NGpUYjRPLXRXcUlGOWht?oc=5"
+        },
+        {
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEVldTBtejZYUFBjX3pwcGpORGF1b0QtU1gycWVfUjU2RXotbkNwMDFyRUk2OUR0RWxTOHgxRVlweENkWDBLeC0yX0VqRU9STXp5R3ltcXhXRDF1SlQwaGozQWlUQ2lHQXd1OXV2UDJWWldCTUc5MVNxbXpDemtDTnVIU01od2VTWHdjUThsSUc0S0o5STZqVVRSc2xCT0NHZDZXRDQ4ZHFSQVl1?oc=5"
+        },
+        {
+          "source": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM3d1WG9WVS1jeVBKRFVQTkg0aEgzZmlDeTBHX1gwT0Vrc2VmS09GU1VkUXdteU5FMWwyMm1FNEpmdVRHazBycFkxcWlzVE4zdmlyOC1zRVh5VDNTZHJZWjlQYWU3dnZyMkZMbEJUZ1NMMGZnaGhTMy1HdVNranotUTZFUFhFaEJ0N2plS1NhVVVVN1J4d2xIdnczMk1YU0tIUzgwTzh0dHZhcFA3MXVPM2lOYw?oc=5"
+        },
+        {
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZEpZX3dXNjhCeGZyc1U1cmQzNlJ3VE5uTmIya3AyLVFMMWphMUpXSXZmZ2FIWVZPXzZJUWFuZ2ZZLTJhTFVHQTl2cjExRmpJTlFLRmV6cy0tVENDdlNmRUJ2bFlhT1ZNQ0QyRm5GSnJObmVTY3ZGdXg4RWViU3VLNmQ5UnctQUlVcnhZamVqMkgwRTY3QWJIQnNuNGRCSUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n587598f2",
+      "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+      "url": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1",
+      "source": "Financial Times M&A",
+      "publishedAt": "2026-10-08T20:15:03.000Z",
+      "dealType": "M&A",
+      "region": "Europe",
+      "dealSize": "$41bn",
+      "excerpt": "Purchase of $41bn market-value burrito chain would rank as largest restaurant acquisition of all time",
+      "score": 138.2,
+      "alsoCoveredBy": [
+        {
+          "source": "QSR Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFJ5am5aelpzbURpOU94VWlOVmp3WHB2eXRVeEFQQ1RFTzZ0ejIzZ3pDenY0cFVoLWxYcjBJMFRPTGl6M3p0R2pQcFRJRU0zZGZWeFZ3bi1KUmRRbm1wRC1YdTRTaUJzdXowWlk5VkE1YU0xQkpJSGRZS1p3MDNFalB4RUpHb0NCT2c?oc=5"
+        },
+        {
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajBZOVB1N3lMWDd2dDVIWXkyQTd1emtsSGRaX3ljalZkR25ISXZuY01QM3QyTVNVOGVzZFNPdlFJbzBjaHJpdk1oY3J1dHFWTVE2bTdhUnBmOWZsWWMzazZrYUFsZzM3b0o4aWVSMWxJZzM1dmJQWGkyNWtsQVdwNnhaOTRFODQ?oc=5"
+        },
+        {
+          "source": "KMTV 3 News Now Omaha",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWFfOFJqUHBkejFzLXdENS1TbkVNS042ZlJBVUhfTXVIT2lqNU12WTlUNm81OUtTOFF2N2RkOTdIYWRRZkJtZktFLWVPMkREMVpnek1sUk8taEJkQm4tSmxFZFYxNThURXZKQ29McDlOUFBjak9PTmdzbTBLSElQWG1kZWlsakhuWGRkZ09EV0gtM0JTOG5oOU1UeVZCc2VuN285NlZUR181a3V5c1FtQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n2e6c3c98",
+      "title": "Airtel Money slips below IPO offer price in $7 billion London debut",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xalFTT1l4amdaYkVrMWliTnlRVDhQdV8yWDl0dEJpUFBjdmprZ1licGxpUlFnNEVYdTFwN1VmUDNRYVB5c1RIdzRHUlN1Mm1nTjVSUDNPdEpoamVkM19DOHF0WXBCQm5jcERxOTFmd0xLb1U2am8zNHN2aXR4blk?oc=5",
+      "source": "AOL.ca",
+      "publishedAt": "2026-10-09T12:05:04.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Europe",
+      "dealSize": "$7bn",
+      "excerpt": "Airtel Money slips below IPO offer price in $7 billion London debut AOL.ca",
+      "score": 126.4,
+      "alsoCoveredBy": [
+        {
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSktsa3k5T3VhQ3VBTTJTYW5ka2NRQl83Y0FqeFpYeHoxTFZMSXNTbnduQ2RjMlN5RG81ZlRMZzRKbjZVajI0aG1DS2Q2eHRvZkNKdFFVaHJ3QjdpLWFnaUxOVnNtQVdtTHlTdnVVaGZhT2lvQWF4dUtmVm1haEN1eTlQLWZ0Z3dJVkpHSU14QXNQTURv?oc=5"
+        },
+        {
+          "source": "Arbiterz",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXgtTnV1QUw3b1B5OENuVzhZVlhZSklMUlpFaVBVSFEzNEhtdWlvT1cxUUZrQWNpbmpkMFAtY2g3R29LWFNSb3M4NHRqOWVtaEpYbmFlN0ZqeUhOVXhuUURzbS1XakkyZjA3Vk9VaGNfck9WT2RUSlpqRTlTT0E5RFI4RzNCamwtd2c?oc=5"
+        },
+        {
+          "source": "BW Businessworld",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0owRVlVZVcwT0dwVjIyUWZPcGllOGV2RnUwNjladHE2NjVIbFRtX1dGc3ZodTQxTGhLblU3elZYX21Yb0x4Y25wY284YmhhN28tbER5TW9ubnlZNWtVVk91OE0tMHBQMU1Idk84OWNtZzNJQW95c1pSQ1lzWlQwSTVrMjJjM0ZZNlRmWjFNMTB2ZUtzaUxBeS1wWTRTVFJITTBuTWxna1NvcXJucXZnM3ZnZEM2eDVNdGlSYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n769b430c",
+      "title": "Paramount Skydance completes $110 billion ​takeover of Warner Bros.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3BwdjJkS1lBaUs5SE9DZXlHUmJJeXVSbjlmV0pheHc4dFZNZVhud2RwUnU2cmFaSW81eDV3cXY4Zmotc093MEw4dmUtLVRkRmtqN29oZFVkVkdXb1lfd2xJa3VVR1JWMThKZ2NmRDR1azJWTld2TjBUNUFZMXB3UXBPN3NfWVkxcjdURmUxSHBzVkZhU3NkN1lOQkxEOEM3ZnVZTmpCWTdSVUU?oc=5",
+      "source": "NBC News",
+      "publishedAt": "2026-10-06T14:51:31.000Z",
+      "dealType": "M&A",
+      "region": "Global",
+      "dealSize": "$110bn",
+      "excerpt": "Paramount Skydance completes $110 billion ​takeover of Warner Bros. NBC News",
+      "score": 123.7,
+      "alsoCoveredBy": [
+        {
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFBxUFlRSFRUaC12U2lDQXVCaDVGckJJUDhxOFRpLWRaSzJqdmNaQzc5Und3LThia3paRGZjamZqMjBrR3RYTFU2QzlvUFI1R2JDeW5qNEpPZ01mbWtuTmxWdFViTkpWbDBiWjlORURjMkRFRXlHdXpUcWJ5cmJPX05DNU5QUUFBenJRZHRVd2RYaWFXb1FkWGR5RXlSNnljcllUTXJSdDlNTWlNNWR5UG9XTUJSZ3ZPOEhaOFhzZWdGdTk0UnNXTTRXMkV1aDUybXlDcw?oc=5"
+        },
+        {
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFA1Sm43WnNqUXFFUzdqVm5yZVF3d205aGJ5ZWVRTHNXNTJfZmZBSTlROTMwZUZjUTJJZlEwS2hWX3p5WTBqUFUzWmtudzFBSGlHRHRZdkhIMVIxMnRwV3ZwTkQybDdZcGRGcFdDdm9YaDV5eXY5al9xNHBIZjZMc01MTVRnNjdKVHN4dUxwY1pJUUdWcTlhYkNyc3dUd3Z2bS1tTEpvNks?oc=5"
+        },
+        {
+          "source": "Democracy Now!",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMkE4SFN0akIxRHJfanc4aEZ2MkkwQUNWeFB2c0tHc2U4Q3RGcUd1YVB0dFVIOFM4NkZjRXprWWlORjhqM21UbU1lWldfYjFqcDBzWVpfSHB0N0hBejA5YXZCemwyUEd4T0piOGVycjN5MEVyMUltVmdOd0t2Z3E5ODJYLUlPS21iNzdsSWg1azlvbnBneC0wTVh5REJXS2RKWmhtQlpmUGFiZHpXSVFYQXRzaWF4TG8zS2cya01pSWhLRmxVeWdPOXRwTUd0UGxZRWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ne6067bb7",
+      "title": "Airtel Money Sets $7 Billion Valuation Ahead Of London IPO - Brand Spur",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWlFDRGtYLUF2TGJZdUVXRjdCSVdrOTh5bTNoX3RLZndrcHNlZ09GNDd2Y1JaVWVyS09MeVVoUE9BdGdOYVFfNHZfUl9BekNUbFEza3k1VE01Wm9aZGhuR2VDc0xZWEs5OXFESEcwY2l0Q01iaFBFV1FwUXFFaUNIRk9VM0xmc1lRNzRJbk1mU1Zxd0JGUGdwctIBngFBVV95cUxNeG85bWlHWU8xSnZiUUJrcFVWZXpITWdUVk9rMG5pT20xdkJST0dibFVDbzluYUxYOS03WW1vbHVDemc0a3ZwMngwbHZfX2VkWEQ5cjByLUt6cC1DSWRmT2t3MlZIdFpLZDNlRjd1NWdMc29hVENSbzBhU1ZIU0U2eHhCeFNGV3NzQWNDZDFYVUtDYi1aTUtfTU5DSmxkdw?oc=5",
+      "source": "Brand Spur",
+      "publishedAt": "2026-10-05T09:25:04.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Global",
+      "dealSize": "$7bn",
+      "excerpt": "Airtel Money Sets $7 Billion Valuation Ahead Of London IPO - Brand Spur Brand Spur",
+      "score": 120.2,
+      "alsoCoveredBy": [
+        {
+          "source": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY0FmY3VjbU5uN282bHpmWDNoWEpyUVRoRWJGRDlheHJVdTEwTG12NTcxVFo4d2pwWi1HQUw0WFlzcVJPR2xqTEpNOUZqYnRSQTNwaGhCdVFSVkc0QVMwdVdyZmR1b0ZMMGxpQWRZb0gyOGlmcE9oQWlkWE1EUU5QZHNQUUFLaXFMYUNFdXZLTVFtdzRCaDdHMmtUcmM3VUtFTU8tRW9Xem53RWhVa09La05FNVBCVGdKYkdsMm5wWEN6VEE?oc=5"
+        },
+        {
+          "source": "Techeconomy",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkb0JsMHRFd1VrTTVOUGdqWGtmTnpYVE4zTEFVblJqNHZ1dVpRQ2NUQ0UyYnNuN1JKN04yTy1VUEFVd0VYZHU3THVoSjVWWjNBdV8xTEFLWUMyU1VlS3JXbUV5UE9SVEVzTDhkYXd6VEFmWS1rSnFHUzRB?oc=5"
+        },
+        {
+          "source": "BW Businessworld",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFU1WHRzcFRYWHdmYlMwX3cyUmtiSHVzRVNwNWVEanZveTFMTmJFeHBxbEZYZ2FkeXZXSWMyZzRUTGVVOVF3bGlwOWVsVzNDdzZtRUNYZDhGRzlEdFk4MXZqMFQ3d1dCZldGLWtBWjVqc3BFOVFQcDJUcjRmUm5DV2N5Qjg2WFdGZnBta0g3Z1ZoT3pVQ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nf1a66d86",
+      "title": "Ellisons Invest About $17 Billion in Warner Bros. Takeover",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeE1KQW1MYlRPYi0zVkRCYmJRZnBJN05iWkZ1Y3Jhd2ZYTFNUb3BfSGxuSEZDNUxqeURoOERSb2lfVlNtMXBPa0x0X1RzV2p4akVZbTRtVzlzeVlEMGdJdFpoODVZNWFTWjc2Q1RQVDUxSzdUeFdzSFZsYmdZYUwyUXAwSjh2T1htcVdfU1dLcWtKc3I2OUZUZHE0QlNpMVpVQmw4akgtUXl5NUdjd1Fmclln?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-08T00:40:00.000Z",
+      "dealType": "M&A",
+      "region": "APAC",
+      "dealSize": "$17bn",
+      "excerpt": "Ellisons Invest About $17 Billion in Warner Bros. Takeover Bloomberg.com",
+      "score": 101.1,
+      "alsoCoveredBy": [
+        {
+          "source": "Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVpCRjN1d1pMeDQydHhsZDNXRkpLSmlTZ0Jic1NsV2xzN29NUTY4bG5WVEJFUEhQMUZ4Y2RxVU9OZWZPVHVFSUx6WE5WaGJ6a0gtZ0xUdVlwRHpoam0wcFV2Xy1aYm5NRC1semxiRmJJbEk3b1JzcE56M2JzR0EzbzhNQWxySHZKMFBCeDhvVGxmSU0teXVCcjhCd0dZRUI5d0t3RWhxOVA?oc=5"
+        },
+        {
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbU9LTzFUUjJ5UVBqNWpMQkFnNkdNUnJrYjJRTXk0QTViYjNWekRya0JQU0JfMUUwUl9mQW5sWThlWmlsWGFURWtDTGdUUjRFQVFQVjNrbzc1bmdtR2VhNDhTNzluVmhOMTdTbTl0QUFiQVBoZ1pOWjRRdmdaeTktQ3NiMHpreFBKYlJITEw1VkphdmFlWFdmbFVUbzRqVmZZWVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nc4543dd0",
+      "title": "Mercer Advisors Taps Broadly Syndicated Loan Market with $1.9 Billion Debt Refinancing and $340 Million Revolving Credit Facility",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMV9NeTNueXZBQU1UTXp6b3JqaUY3YlB3eVpzWm9RS3BzelhRVmFaNFFhSURUa0tGVEpadkw2bmZFckxuejg0VmRpYXVPSDVGSE40RFdUNXJMMjJqcDVfUlNqTnVrZk54NGxHZktUWTZUZVhkbFNFT3JMS0Y1allYZDNWVi1fQzZQaDUxdk43dm8tekFlckJ4bXNRcmZSOWdpM3FDYWpSQjNEcHNqV2lmLTdFSnF2VExlUUhBSUU3MTNtVnRSY0lGUDMtajdZczAtTEl4SjBjVGtYY2c5UnlfMlZBanFRbU1SYlg5UzlKSU5PcDRXQ0QxMml4MEdYeWRDT1JVbXlZR2xMbXMtQzZMeThnVnZmSWNnZXc?oc=5",
+      "source": "Business Wire",
+      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "dealType": "DCM / Leveraged Finance",
+      "region": "Global",
+      "dealSize": "$1.9bn",
+      "excerpt": "Mercer Advisors Taps Broadly Syndicated Loan Market with $1.9 Billion Debt Refinancing and $340 Million Revolving Credit Facility Business Wire",
+      "score": 95.5,
+      "alsoCoveredBy": [
+        {
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFkwcHpVTWYyNC1rYy15el9oRmtwTGZOMUxoLUpDRl8xVktPUFh2bG5vX3oyZC1USktVZGNySzU0U0M2c3dZcWpUUUhrbkEwSTI0MEpoRVh1bFY3RkR5RUZJZzVJU3YwWkNvOEkxMV8wYU1oQzZJWHZhZUtoTFNIalkyQnFQYmRBOGdaZS1xQ0otVm5haGZBaDRjMA?oc=5"
+        },
+        {
+          "source": "Wealth Management",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRU42SHZVZDJHQ1M2SmhLNlluclh4SFpZaVBGV2tlalM0S3BvTFBJMDNsb3hBWDJNZmVCMllxbnpuUVJkTVJEclNYNndNUlZoWFpseE5vemo5QlYyMGF4OFNkek1reTZLTkVDZ1Y1VVAyamNsNlJxOGNkMmlkdzRIc3BBeWoweF9jYXZQSWlIUjM3em5F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nd3d971eb",
+      "title": "Another African country opens up Dangote Refinery IPO to investors as $1.6 billion share sale expands",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVRcm9wYkRpYmxFdTd4UGhmM1pNOVJJWVhPSHVIdlNUejVocUMtZFJGQkJibU82djd2ejVERTVWX2JobUY3Z1hNUDBPZTBXMDJWNDVzVzRlR0hBMlpZendMYUlGSmRJZ0VfczFTS2R6TGh2Nk15VUV1SjYtTjhNdnFBT0k3X3VMelBwQjJKM0R6ZEZCeDBSNTllbHpjeXM0b29POFlUT0dCN1ZTUkViRHRZWHNfQ3p0UUFtNi1PTGxfNS1TbjNJWXh6QnVxdEVq?oc=5",
+      "source": "Business Insider Africa",
+      "publishedAt": "2026-10-07T07:12:41.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Middle East & Africa",
+      "dealSize": "$1.6bn",
+      "excerpt": "Another African country opens up Dangote Refinery IPO to investors as $1.6 billion share sale expands Business Insider Africa",
+      "score": 94.5,
+      "alsoCoveredBy": [
+        {
+          "source": "Nairametrics",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWV6RW5yWGxoQ3dzSDRDSkFZamt4WlVoVnpVVDBrSUIwQUU3T1VHTExNTFg1dFFrTVpUSmE2MTFoZ1FjWEFpbW9FczE0Zi02eExEOVFRWUFXU1EzZG9QLXBXOWJNVWVWa2NGNkRwbDNqS2hfT2NSdHNEVUNJVXNmT3M0ZkF5OExXUXdKalJ6N2VCdlpNLXg4QXB2WlRpTTQ3dmxESzlJcVYwLWpK?oc=5"
+        },
+        {
+          "source": "Dabafinance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNlBkTllrWHlXQ2h6Z2drQXZNU2xWelJzR2h3b2lFM3lBd1VKTVJ1bVV1X3RoSmlUZnE3bTNEWk80VWtZMm83OGVCclFjNmFzR01hclk3eHhwSUdPc1RScTdzX1RJbkhPNVlKUWRIbFhkeXhjSTRpWkpTQ1lDZ25vZHUtLUotNHRYNTFYbTFNTGd1Q1RLQzRSZEllUzdndw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n4e761a47",
+      "title": "Uber Eats dives into catering with $2 billion buyout of company serving 140,000 US restaurants",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wZXVHem80bWFnMk9KNkhtcllrVDl4NW10SGVqaE9aR3dOclpSRHA0UU9La1RzXzFmTWJ0bld0Z2NQQ3NZNllIM2tITDhKUlVzcGdTM2Vub2NXUGlMOUZHeVV3TzltaE85YUlyTF8xN213cGhyWXc?oc=5",
+      "source": "Yahoo News UK",
+      "publishedAt": "2026-10-07T14:47:08.000Z",
+      "dealType": "Private Equity / Buyouts",
+      "region": "North America",
+      "dealSize": "$2bn",
+      "excerpt": "Uber Eats dives into catering with $2 billion buyout of company serving 140,000 US restaurants Yahoo News UK",
+      "score": 93.8,
+      "alsoCoveredBy": [
+        {
+          "source": "Newswav",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkl2YkFUTDNOTndGMTYxb3FuLVp2bVRfYktRTnFYaHJaNUFTVWdxeTFtQUtnZk5abnppbzN1ZXNZSWZjRWZpcUd6UGxHME4wQzVCdkdvU0NTV3cxcllHRHFranlERk85bE9KYTR2TWU4c21RcjE1SlotNmw2d1doaThWM0dXY1hDU0VBYzU1X0lQa1NWd3FJcW1neFZfdUF2YTg3OEVlb1RHbGpQRVlGMjl6YUI3Zw?oc=5"
+        },
+        {
+          "source": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MSTZhUW5aT1dqemtXaWMwVC1VM1VENEM5R0xUbHdnMVlvcFJzbUwzak55akVGN1pBSVZQMEpsMnY3WV9RRFdHaGpvVXRCRE9rYmxfT3g3V0VHMWdRcElmLVZOVkVMZC1IN1NQR0dzQUF2TVpJVzZYcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nba4a3e9d",
+      "title": "Taurus Private Markets Closes $301 Million Oversubscribed Private Equity Fund",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM1psSW1ick4wc1VsU1dPazZFWks5M3MySEExRmpCVFpyWjUwRDNVZ2hDbkZ3ZWxrM1IzQXJpckZVY1RLdVBqZ3ItRVlpUFFVYW5vd1B5NG1hZGctaS0yLS1wdG9ibnR2UmFvbUhjdE9pM0lMNHl3ekdsY08xZUhzT0JLX1F4Q1p1M09oamUyOUFSLWlJbkJjdHgyaHc1TEJRUU9aVzlrWHBEelpYOU1MRnZpZkhYejMwN19sQlZncUpEdEVEUnZzQlZ0MUhkR1BFZmNPbA?oc=5",
+      "source": "StreetInsider",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "dealType": "Private Equity / Buyouts",
+      "region": "Global",
+      "dealSize": "$301m",
+      "excerpt": "Taurus Private Markets Closes $301 Million Oversubscribed Private Equity Fund StreetInsider",
+      "score": 89.4,
+      "alsoCoveredBy": [
+        {
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ0lTZVNFRkdYNi0tRnloZVU5R2syY0lPX1Y5QXg5NDlLdFRZZS1zLTBZaFFUVS1MS2c5NVVkZlZmbUlQaXFld3k2MmdqNzYyVEJwWU9OTW5WUFJyZ2hwTHN5OXlBZ3ZSczZpNHV2X2ZLU19TTkFwb2F3QmRmQnBBa1JpQlBybTZUaXRLWGFIMlBqT0dPWUg2QVAwbUxHdTQ0WHdZMmJuMVBtTmpaVmJiQ3lOMk8wcENLTTN5VlphTVdlSWhzc3FzQnptcEdsd2Y4MDRtb0V1UmZDTmdPM3hJ?oc=5"
+        },
+        {
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWEo5aU1ZWktTcVYzWTllN0NFMWxYYVhuSXNCVld2RFlhSVFqVklZQjVJa09ZM0h5emNsTk1ZRmJTc2NGQjhqZTJ5amE3TEJLZGV2aDNRdXpRSHZvNzVRUi02ejQ1cVJLTV9QRFRqZk9URXp0RDJpcVJKV1dZMXVyMjIwNW5KY3JJRGpaNk1aTHY2SUU3bVVJYlIxdTFyTExYQlBwUDRHei1lZFdYNHNRb2FYUVU2d1JvdzNnblVuc0lDRGFsSkZWOGZUdm1zQl9HYU56cVVmc0pPTnh1Tjdad2phRlrSAeoBQVVfeXFMTXhHMlBSdXNia0hiZUhScnd3WGpDR2JRZ2phS2lrckd0OVBrZTVLZkNIeDZMZURtWHFpcEhKV2VwSXB0azRwTThSRlNTXzMtcHBsV3dZR1ZobWYxNXZOSk96ZEo2V2JESEZNOTdya2tic0FyV05qMV9QaWJEX0VSQU5zNFdLX08wVzdDVTJwQm1rNHp5ZW1WY2VHRWdlSFdaVFBnQlRKby1OQ0taSlk5YVlTM0JsQkFUVjQyd3RnbnhlMjhFc3pBVU5yWjZYWldHSGdRUE1SWWdxLTAwQm9ZWmNGajRzTGtJM0hR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nf05823cb",
+      "title": "TRexBio prices IPO at $14 per share on Nasdaq By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFo0TkxFSG5GSnUtRTJ2UVkzTERNRmFhWE5SaEhUcmhMdm9QaHdkY1d3b1BNRDFjdkdOWXBDX2c2OE9VYXlaT2NDaEFpZEFqX0JfREdGYVFoUzRMaVFBYWdVSmd3LXJuWHlYWWlfUjl2bzRiamtaU01RTFIxaENOamNhQmd2Uk5LX2Zmd2ZEalowQjExUmFsZXBzbjBJTlkzTVJ4SmVLcEladw?oc=5",
+      "source": "Investing.com Nigeria",
+      "publishedAt": "2026-10-09T01:48:40.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "North America",
+      "excerpt": "TRexBio prices IPO at $14 per share on Nasdaq By Investing.com Investing.com Nigeria",
+      "score": 88.6,
+      "alsoCoveredBy": [
+        {
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaXVYcFpzVE5KdU45V1hCaXFQd0NDbXlTQ1g3VlZWUXpDcHk4TXpIajRWQWk0S1hndFAxaHJ5UVBKU0otRFdwbDBIYUdjQ0h3T2Fwck9VUmpsRVRKLUtsbjJhZk5aUXdUVGYtTkdBZkFBd1ZRd0k1VHJocW9ISkVUV3VWdVdIU1VUU3gwUjAwVlpPdzd3Skl6NmJXazVRVndaTXdJNk1lbWVCUnc?oc=5"
+        },
+        {
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmc3THVpTFpoTlN2Mzh0NUlvbzRmc1BTVHNHSHpjWFloS1VtaUU1blBYZy1FeEhCbk9QNjV5Mm9GdVdQM2xOb2FmZDJkcUx1MVV0bzBFbTR0VmN2YXV4bXRBeDlsbU9rWjRHMmNnRDZ6Z3d0azl5UnBoT2x1cmgwTDRRdUhqY3V2OTE0YTdUQVRhTXVNOENYamRUbFlzRVZXcF9GRQ?oc=5"
+        },
+        {
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXdzM2REcXJvbDYzLXFGa09IcmFtZ0lhZENUdjE1UUdMR09wbjFqd0VUMFI1VEpNWDFwSE84MWlPb09EakdlNkE5RkpTV1RKNXVsb0lMaHFJdFp2b3ktUGNmNlQ2OE1TcEE4TkVQdzhvVjgxNUUySUUwR2djMjc1MDgxMlBxaW44R2NoZnBsYldRdkF2M3I5MF9ldEstZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n371a2dd6",
+      "title": "Airtel Money shares start conditional trading in London IPO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc2w2RUwtRXdsQVh6SnZva05ldUpnZ3ljVTFtSHdYNk1sdDhpaHpBMUhESjEzc25BRmNMWFJZWThRV0xLakJTTlZHUHJZdVJ3cFlvMzNrSUh5RERzU1RZczlEQ044alpBUUdqQVFsUlhpLS13VE5Xblotb1YzMWRERm1EbVBRYkk1WnBhXzcyVG13Ym01M0ZsSjBTQ0xZcDB3aHJjUXNLaHdCZEJXZkNsVEw5NkVSM0J2dXM2OGQ1MzV6Zw?oc=5",
+      "source": "VZ VermögensZentrum",
+      "publishedAt": "2026-10-09T00:59:19.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Europe",
+      "excerpt": "Airtel Money shares start conditional trading in London IPO VZ VermögensZentrum",
+      "score": 88.6,
+      "alsoCoveredBy": [
+        {
+          "source": "Law360",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaG9tZjIydWFtSnhNRF9HVENIR3BIOHBLcUZfbTEwMmJsRF94aXBwMXpwUlBDOTBDN0xVbFNqOUFYbVBLWmRMbDlyeHNxZ0poaVQ1SGFDcFFaZzdPRy1NVFc1dU9tU3hlcWplVlpPLWxZNHcwQzlad3AzeXAwNHNGaHlOSDUyVEtIX19wMXFaVnEydHBkSFhwakhwcHI1UXPSAVZBVV95cUxPN0x1ZkttOU1SenhUYjBZVjZOSnhoTHFLam5EdS1CaDJpZ0t2Qlk4Y3JwcGt6YmpMVmpHeFQzSUZjZEJQdUNPY1Y1akhCY3VGLXNHY09fdw?oc=5"
+        },
+        {
+          "source": "Businessday NG",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbVhLdlFfYWFZQ09yRl9rVkpldmJwVFlUR3BBQVRzdUkyWEExWTBhYkFxbTY3M2d1d2VRTHBBa18yU3VHLTBhSWRieXR0TzBNZVlsZ1NBUE85VjRkWWs2bEcxTVMycldUUEtKS0R2NG05eGc5X2JBclJXTjdENklDNXkyeFlsT2ozelJ6ZzdMaVZ3Um41ZkJSQkV5THNhMTZpdkxwSHVtQVZ0X1djM1hpZHh1X1h1eDJzd2xCMW53U3VVcjRyQ09KODR4YUR2aVREaWk1SEx6bURUQdIB2gFBVV95cUxQbVhLdlFfYWFZQ09yRl9rVkpldmJwVFlUR3BBQVRzdUkyWEExWTBhYkFxbTY3M2d1d2VRTHBBa18yU3VHLTBhSWRieXR0TzBNZVlsZ1NBUE85VjRkWWs2bEcxTVMycldUUEtKS0R2NG05eGc5X2JBclJXTjdENklDNXkyeFlsT2ozelJ6ZzdMaVZ3Um41ZkJSQkV5THNhMTZpdkxwSHVtQVZ0X1djM1hpZHh1X1h1eDJzd2xCMW53U3VVcjRyQ09KODR4YUR2aVREaWk1SEx6bURUQQ?oc=5"
+        },
+        {
+          "source": "Africa Business Communities",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVh1N3dzSGdNa01Sb24tR1BmS2RHeGRwLWNNU0lQU0JnVkVWbFpKN25qdnNqdVoza0lCNk9oQy1DdUZ1S3J1S0M0cmo1RXpSeHFlejlYRW5EUVc2dmdwMDNHY0FLU0NNbXFuczNCeUY5RXJQSExINDRIRXlEU2tpd29lV2VJUEhkb1hleG1RdUJTa1FkaHpiN0o0TWFLTDEy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nab16347a",
+      "title": "Dangote Refinery Offers East Africa Almost 20% of IPO Shares",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMUZPTFhYX2l6QlhsZWpucDM4VkpXZFVpUkRLU1ZYUDBtRmg5dUphYWl5dVltXy1ZNzFfb1dldE5YaUxQVmRiRlFiQlVrYWJQSzVDRjBZeVZJUGc5eW1BQzI4cUljSV9PN3JQX1JZcDhlWGtuV09nemNpdHRBV052cVF0amQwaW9CRGMwQjVrUkJyR1lWVDkwQVZzTGMxMzQ3c2dlZms4WGk0ckZVTlpN?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-07T10:27:49.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Middle East & Africa",
+      "excerpt": "Dangote Refinery Offers East Africa Almost 20% of IPO Shares Bloomberg.com",
+      "score": 85.3,
+      "alsoCoveredBy": [
+        {
+          "source": "Ventureburn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHVUI4eTcwd1F5VHhrOENMRk4wMVhWM0p4NzlkdHI4SXRSS3Q4WHdjenVONkd3OF80b0RZbE5NTW5RRFhmbDltc0U2Q3l6U2dtelFDbzFWekpZczlEU25IanJKcGVBYi1BSTlZZ3hVU2NHRTVvWm9hTUlB0gF6QVVfeXFMUEdVQjh5NzB3UXlUeGs4Q0xGTjAxWFYzSng3OWR0cjhJdFJLdDhYd2N6dU42R3c4XzRvRFlsTk1NblFEWGZsOW1zRTZDeXpTZ216UUNvMVZ6SllzOURTbkhqckpwZUFiLUFJOVlneFVTY0dFNW9ab2FNSUE?oc=5"
+        },
+        {
+          "source": "THISDAYLIVE",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1FQTkJINHo4UjZZQU5oSGFuLV9kelZFZ1diY29qcUcxQWRsZEs5cTJzS1ZUTHpFRFZSUjhsT2VmdGtRSDZ6bFpiWDREU0g4MTdlZXdIZlZTRzRhbEhhNzlrQlZocXpwcVMtV2xzQmt3cVZtLXhxUUlfdzJZTGlEWTMtSGEzLVVWTHk3VHZ2TldNSkxyTnowbzR3Tld4cmxVaDQ4bWx2eVhXQ1d3c2VpMDRhSGNIdw?oc=5"
+        },
+        {
+          "source": "Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUXdpamlrVm40MktfRHVSQldwY2NiQzZSMHhHODdVaG9uaUN0MDFNX3cxRWkzV0lsSUdvTUxNaVlOMWY5TEFmNVBwZnFPZ0oydVo5dUpFZVhfR1lSRnUwOFZEanZKeVM0Y3FuYW5pNjBCWmVibmNjR0JNWWM2ZDRLMmNJcmpRY3J2cElVaGgxZzkxeDlDWlZsTzlVZDhmZHdsRmlDeU1vZXhhdTQ3UU1LYTdNRXJCeVFWa1hRbzMyOXpqLWJtWE5wWDlybFFiVjRfS3pr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "na345ac40",
+      "title": "Walker & Dunlop Arranges $87 Million Refinancing for Scott’s Addition Property",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUVuQTFPTmFDcU1Ia1B6VG5WVkpmQ0plUmtEVkhUMVFUMy0za2xncG92UV9Pd1dqVGtMdVZwZnhsZW5NSnVwOUsxa1F0anpiMmVXQzJKRG0ybGJZS01qdHNKMlIwbkcxVk1ycUF3T1pRRTc2bzRWSXZ5ak81M0VaSUlxd1NVaGRtbmphTGNFSlFEUXVMZGR4UGU0RQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-07T10:30:00.000Z",
+      "dealType": "DCM / Leveraged Finance",
+      "region": "Global",
+      "dealSize": "$87m",
+      "excerpt": "Walker & Dunlop Arranges $87 Million Refinancing for Scott’s Addition Property Yahoo Finance",
+      "score": 84,
+      "alsoCoveredBy": [
+        {
+          "source": "Nasdaq",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZk5nS2JqRkVlc3VaYzAzbjlwWUJ4M0RQOUJKd21hVEpRYTl6X0hvX3JyMFlFcU84cW9ENG5RRGR4Y3pndUs2ZVVYaVhFVDNsOU1Ta2lJQmZSYXF3UWFFc1dOTjlUM1dyMk9OYkVGdjBjQkptLVR6MlJHZlltQjYxdUI3aW5yWHZSX09qaW96d3NudWwtYTdRbHY0RHl2TEtpSENqTkNtZmpwWDZRbWxieXZLejNvRl9PdlE?oc=5"
+        },
+        {
+          "source": "Connect CRE",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDVFVzUxOTFCTFppUlZhTHdjWHBUQWlNb29qMTM5MlI0VzdScFBmSGItVXhJMUFqTHZXUHZ5UHZHMHdydDhtT2dFZGlqUm82cWJERmFqMWNTeFlqX3hIbUppMmp5QTRYc2dHblpVeTRkdzdta3lqU01DQjM5REFxLXNCN1dSWGRBR21nbi10THBVdFVkU0lHLTEyX0RQbzVoNnRxbTln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nb8fc3f43",
+      "title": "McKesson and CD&R strike $5.8bn deal to buy infusion services provider",
+      "url": "https://www.ft.com/content/0bc54eaf-d545-4591-bb7c-ec3cbc1cb89a?syn-25a6b1a6=1",
+      "source": "Financial Times M&A",
+      "publishedAt": "2026-10-06T13:52:19.000Z",
+      "dealType": "M&A",
+      "region": "Europe",
+      "dealSize": "$5.8bn",
+      "excerpt": "Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples",
+      "score": 84,
+      "alsoCoveredBy": [
+        {
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGR6UUp2Q1I3OGZzMms2SjRGM3A5ZV84Z1J5SzhLOUF4eG9zblRWMjRGRHc3NWdOa28xOXlCS3FxTWRydHJxTjFqZUMxWVRkbnNENlpWbF82aVBBSlFydmgyVEFaQV94WlpXZlpuOW1JTWJZMTFldnR6bThpa2ZyMzBIaEVyeVVpdS1CYmlWZVRySC12UndlVHk3M05yM0tKY1otZHZ6VUdiWUl4WEcwY3RYdTZNeUxXdWVYNVUtNnVTSzM2M2hDYWZpZkhJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n83ca2397",
+      "title": "Kenyan investors cleared to buy into Dangote refinery IPO",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHJxWFFfRDZHeGFOSURDcHB1N0s5czBuM3Z3b2d6Z0R3TmJQdFlZNWVXV3paMVNDTEVxUVIyUVdXeldfTEl4V2FqR29xTVhyX0dhTmM5V1U0ekZFVmxOcGkxaDdUaFI1YUgxbnY5cm16cmk4S2RKdkx3R09rNFVvSVpMOTdrUnFjMUo4?oc=5",
+      "source": "Capital FM Africa",
+      "publishedAt": "2026-10-05T15:36:55.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Middle East & Africa",
+      "excerpt": "Kenyan investors cleared to buy into Dangote refinery IPO Capital FM Africa",
+      "score": 83.8,
+      "alsoCoveredBy": [
+        {
+          "source": "Africa Business Communities",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzZ2cWtuaG53cjhOZFF3NDFzUTE1UFM5bHFIcmx0ckViZVBNRlZ3UHBPQTZxdVV4UzFYd1JVUXphNTM2Nk90OXc2TGVfQjlXbzZ5UmhURzkwZUQxbDdNR1gxNjZ3RFZVRWVEcUd5THc5Q3hQUXE4LUpQOUphaGtGSEtOMkc5T2ZOclJublE2dkxKZw?oc=5"
+        },
+        {
+          "source": "Businessday NG",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnY3NXpuWWZibHNUMGR4UVphZlVYTEVxMXhFUVpXeWl4MGVVTmtmd3Jldl90RHZ6bW0tRTRkV1dGd19SZzFUY2RyRWVuejR5anB4bmNXdUtRWmN6QVhScnBGMlVLR3lCMm9FWkVkZ0hfR3hwbjJGNlI3alN2OG9JXy1Jd19ZUkJYNkhNN09aZDdRTWcxSkgwZFNKZ3BDcGdMNVZSc21zSURTNnVfdEtFY9IBtgFBVV95cUxQdGJ2U2ZfZ2hLdTBJY0pIeEFLc1VOWGJEQlBRSXBjaWtDNDM4QW03bTBLeVdOdWJrOW5iTThmcWZQelAxOUcwVC1vN3lDTnVOYzRtaHFfQ0JEWnJ2WDRxVXIzYXotVzNxWlZBQVlWNVQzdHdYb2pINGFaRXJoUG5lVzFRdVk3YkhnQ3IxaW5BVEtLZm9BQnlTVmhrbjM3d21TTzgyTzd0d0lGY0xmNVpETUdWZGdmZw?oc=5"
+        },
+        {
+          "source": "Uganda Business News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnRGZ2R5NW15QUZvX0I3T1dSTzJnb0VMZmc5SjBZZGp3ZUhqTTlpQnpDNEdLY2NMYklQODByT3p6ZW5NY0ZpYWtTVWtNSFh6b3pJcTVGRDR2M3l5d2xLYndyeFVfRWktRGtvUXlpckJnU1V2c0E5dGU0QUlSZmxXMFR1TGJ6MHlqcUFrclFOdTcyWmpNWEtpUGZzb0RRMWgwLXpLSnNVUm9GNzdWZnhweFdVbGtFa2NnNXd3RFFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "na9b45f59",
+      "title": "India's Jio Platforms targets nearly $106 billion valuation in IPO, sources say",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ29rT2dkWnVtdUNydmhfQVhFNm5iR0JPNl96VXpVdW9lcFhoWHBBWUVwenFBY3RhaFN5cWtzazhkaklPRFZLcUYxWHhKVEJqV1YxN3BNdm1GU3FqdWxXWG1yM2pnT3FYUGNYQi05VU1TdzkwVHhSWnNHdUQ4RGRIYzc1X3QyN0NnbnVMMTRMWW5aVnNVWlpTVDNVSEdOOGwwS3BlMk5oSXdsTEpzQm5NdGFpcmQtQVZuQmVIQmJqTEZiWS1QMUtEVm91VUpCdmNGWUNMMFZ3YmlfSFJ1SjBYQQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-10-09T11:58:47.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "APAC",
+      "dealSize": "$106bn",
+      "excerpt": "India's Jio Platforms targets nearly $106 billion valuation in IPO, sources say TradingView",
+      "score": 81.5,
+      "alsoCoveredBy": [
+        {
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVBtV2xpdERRYnpuYTFjdGl4empoX2I5VVN5ZERGWW96V0FDRGRFNkVzR2lRUnhKbG1ta291NTM2YndMTnFHbDFMVHo2S3FkZEtITFhMUkcyV2hRLUhNeF9nQjY5M0tfcnZNcTZlS09PNlloQjlNNjdjYzQwVXA5a0p6MFJUaEtIMVFPNU5DbmpVbmhqcFg3MlJENFBQakZjWENxUVJhcGE1S3djdjhCcHFqTUV4RHlTVkNMd3hR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nfcbaa614",
+      "title": "Ryan Establishes Presence in Brazil With Acquisition of Tax Technology Firm Comtax",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaWVBT1FQVXdmb2RwQXNqUUVQa0hBLVZzeHN6MVhDMzdaVHU0OVNiME5WT3BXYlFkRmVEMGxUV0s1c2RKZFlWZmJZb1prOXJ0RHdLamFGMlpGczlMMkVtUU5YT2NTcWM2VmhWWkZMZ1hCY2ZEQjVMRV9kWExjQ1Exb2prTWNlQnhhbEFfUVlTbEZJYzFOVUxELTJDblE3UmhjdUZpeDVfWjIwRzdObVFoTnVXR25VNTE2RnMwejhKRDRaLUlmX3VKQkNnZlhEdUpDaEpKbDB3?oc=5",
+      "source": "Business Wire",
+      "publishedAt": "2026-10-05T12:00:00.000Z",
+      "dealType": "M&A",
+      "region": "Latin America",
+      "excerpt": "Ryan Establishes Presence in Brazil With Acquisition of Tax Technology Firm Comtax Business Wire",
+      "score": 81.5,
+      "alsoCoveredBy": [
+        {
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUFlNUjBxZm9sMlBEcHRnem1Qbk9MTTdOQ3RuNno5NkNQRUhzLXQ2MjVQcEVicUltajdlNk9wZG4tRXI2Y1NJYVNSWlR1VDdhUlhfQ1I5RXZkUnJoY01ZV1NLQUctWkhpcEE2bEZEdDhaeHpHMWszV19xcEh6N2tucFdfR3JmRWN1Y1I4M2tjM3JraU03NmR0TGFyVFBCN05pekxYek01RG1jQnJMbWc?oc=5"
+        },
+        {
+          "source": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNld5ZXBsQzE5dDQ5SWdMMjI2X2NsenFIQXZaSF9MUXBGUGVEUER6MnZReEhYdVE3VlZsdk5NZnRFM3FPUktHYnpPTFgzUnV1X3lwWlZrMjVRSEpjZm9tMFFzbUVNLXh5SENReVV0OW54cTI4VTJCZlVmNEZwR1JkMUZUZFBEVFFWMmVCNlZjMXcybTRiSEdmbjVEQ18ycDBmd3h2NmlqcVNwTm80?oc=5"
+        },
+        {
+          "source": "International Tax Review",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOalNITDJHWjI1Z0ZDN2RUZUtUS2hEWVNDdG5qZjF1eGNkbzQ4UEJ3VjQ0R2NtdE0waHAyYnUxZE5qb2M4dVpkb3JEMGxlMzFmU2FTZldmNVVqRkE2OG5Ia0gwenFoeElzSWIzZDVoeUVJUXZXRkl5cnlwd25Hc1ZnM0ZxVDdXSUV2MU54azBHNWRqenJWZkN3R3YtWjZ1LWFWQ3ptR3k5a0N2Ty03MDBaRUpLUnR1aGJZZDN3X004ZGoyUVlJNjZfTzRmbFJNSVlVSW1lTnYwREZLV1VvTnRQU2p2dnZCaTJSd1VqMC1jNk9nVTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nc411e839",
+      "title": "Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTW5qMTNSMzRzTGhDdEQzcFdocF9zcGN1OHJ5ZlluUkVEazlxbFNqemJXLURkYzBZSnFwMEJGb2ItR0hxTW9ta240WFNYMkVFMDFWTXVkaU9oS0FxdnV2d2xuMVRRV3VYaTJqVzU0RWZnQTNGVXNEanlZZHBkQS1VU09XNkFDdWpad1R2Y3Y0OUdBX3FsSU1qU0NWeW1jLUdnNnl4bjhTZlc1UkdFbkFNb1ppSmc3S3lZMTRj?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-10-12T01:47:00.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "APAC",
+      "dealSize": "$2.6bn",
+      "excerpt": "Peak XV, Accel-backed Zetwerk seeks $2.6 billion valuation in India IPO Reuters",
+      "score": 80.5,
+      "alsoCoveredBy": [
+        {
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmZyTS03TEhUWUd4TER4SktHS2xMUWhXQVFKQUxTZ0F4TEZMeTFwWjRMcWJqLVFKN01xbU9sSEpTREpiWTNienRlb1dWWExueU4yMkpNamJNMm5NOGVJcVdINUJEVHFhRU5OTk1iRjFUN3JTTTBKNnpOX00wZlZ5SFNNYTVCSjlaOUVIYW12MGpQUmw0TXBBdWRPMmlScm8zdzJsOEFLRXJOV3lGSlZVYkt4Y1R3UVFtTExqdlI4MWZ4YXJOazdfMnhvOEgzRE52R3VEMjJR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ncb4e44f0",
+      "title": "​Airtel Money makes London stock market debut at $7bn valuation after oversubscribed IPO",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnQtdHktSTZrWERYNUpnTkJfaUJXanAxYzNhNWV1SHhWbUFQeGpmYUJtalpfNVFBU0tQTll3YzNNSmhJdFZKZnM4OHl1MWNONDJTUExraS1YdVptRmtoYVZLVndlaW9yVU9CMG9MbVhmdkdsR1FUS2xtV0dheGFodlJvZmU2ODZqb3A2YUxsUUxBVHY4T3dhSVBrUUR4VGhVU0pXTFAzckJTcTdOeWhaNjRXTTFlWDE3WHZRV2hiUQ?oc=5",
+      "source": "IntelliNews",
+      "publishedAt": "2026-10-09T10:12:20.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Europe",
+      "dealSize": "$7bn",
+      "excerpt": "​Airtel Money makes London stock market debut at $7bn valuation after oversubscribed IPO IntelliNews",
+      "score": 78.2,
+      "alsoCoveredBy": [
+        {
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeTJ2OF9jU0ZYUkNqSzIweE9IXzdJNDhfeWh6WDlKRmdMdE5LanVzZUNNOFNUWXNsTlBJb25SRER5dHY3MGhPU1o3WF9EU0pEenFYNWctUEEtLUJ4RmZyeXg1eFJWeVlvLVI1V1NEM1prejIzZmFMNWJaaE5KeGNGV1J2VWwxX210T3JDaEhTREhTVkgwc3I3SnF6bDJuckJLaVh1WGxpTE5kN1gwMmpGME9xRFVQV3k5SE1ONVB4Y2pld01tNGk1U2lGdnk0VmpEUmoxNWRzNNIB3AFBVV95cUxORmg2aVRDYmE3dTA0QXI1OVlVX0Z6bzVxUF9VM3ZvVEEzUW9JVFZwb21yRERVOE95TS1oaERtS0RXaHRFVEMzZVNTWUNGY09nVkI0a2ItQkltTHk4Q2RjakFnVDh6UE9obEZYT3hxdnNmdGtJT3JmUThubXJFMkwxNE1neW9FOW0zX1pxdlZ0SnZBdU1XaksxZVpsQW9LZkVUeTBVQkVURE1aNnA0RVRGcGR6cHRkdXl5SW5Ga0hPeWZUSFJYalNwNU8xNFk4OWlDRmd2Ty1aWVlhYkc4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n4e9ee954",
+      "title": "Scotia Jamaica shareholders vote on $64 billion minority buyout",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1BhaVpMT0lYaG9WNTZ5eVVwTXZuUGtVcHIzcGRkVHg3SkFGU2RTWDFMNUNNMGFvUFpzQkJVSTlCSENZeXRjTGpjUjBqZHlRazhKbjFZN0ZuTl9GQnNtLVhFc0FlMDBTOGZkVVloamwtUmhkQ3hZSE9OR3lUek41WXdWRGthTFRvd0xLTmI0TlhEcVFQUFZlNmRRMW1RRzRuV2dCZXNsMDV6QklmandxWEpn?oc=5",
+      "source": "Jamaica Gleaner",
+      "publishedAt": "2026-10-08T00:12:03.000Z",
+      "dealType": "Private Equity / Buyouts",
+      "region": "Middle East & Africa",
+      "dealSize": "$64bn",
+      "excerpt": "Scotia Jamaica shareholders vote on $64 billion minority buyout Jamaica Gleaner",
+      "score": 76.5,
+      "alsoCoveredBy": [
+        {
+          "source": "Winn FM",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGM2ekxrUUJaQVdjVXJJelhhTW1aODZaaGJGVzc4Q3ozZFZoc0RQeXVhS2pzZTA0QU14UlotaDVURzNVdGZsd3pzTnpOR25QUDhLcmRmdC1mX0VZQ3BlbWJ0VzhEckNObG9DMnpRSlFCd3dlSjk4UVdJYW8xVFF3Z05wUGJVemJzdTl3Q2Y4QkR5d3JWVkUzeTlQYV9yNjBtTHM2VUc2NmJLUTd2OUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n41929018",
+      "title": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: ‘Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,’ David Ellison Says",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWhCSEEyZ21sdFN0eVVSaDQ3eUVHQ1lMU2duVVNNSzRwUU0yaVdHOEFqMGxmVHFZUDNJanVpdEF3Ujg4SVpxcVlyQzB4UzAwUkt4M2xTYmlJNzJNN3Y3WEV2TENJa3hmWHNYbmVQYWVBRHlMTHhvTlJRQUoxWnJUazdxSmNyc2N0UVB6Z1hpcVhCdm0wTlFMN05iMk96Q3VsNlRJRVJhRXYycXZIcXhnaElyUmlqdXM?oc=5",
+      "source": "Variety",
+      "publishedAt": "2026-10-06T13:02:00.000Z",
+      "dealType": "M&A",
+      "region": "Global",
+      "dealSize": "$111bn",
+      "excerpt": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: ‘Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,’ David Ellison Says Variety",
+      "score": 75.6,
+      "alsoCoveredBy": [
+        {
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUk5fR0lGRGk1eXdUMkhkMlVWT21yYjRETXN0R1dKcExlMHB4TXQxRW16djcwTlpyemN2blVuOXEzRmVITFBFazRsVl9CT2FTRkxkOXVSRHFyLUpnandRR1hoN1VWZE5nQ2l6U2hUbFRwZnBhaUZ1MnVnVjU5STd5UWM4M3d5NExQbTZlS3dReXMzbE1va1ZtTjVPZkN2VHh2ZThtOVhFTmh1UW8yZHYxT19hOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n00befeba",
+      "title": "Paramount closes $81 billion Warner Bros. Discovery deal, forming new Hollywood giant",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFcweEVQTXdiWmtHRmwzWVFpVWM4OFdPRl93Q0VKSFRHT3d3ajFEUHdpb0ZpWk9OTHRVODhXZldCdTRkTHBJSjFwRzBFNGxoYUlBczR1UEhjMHVDRzdFVDBOZG15Sk94bWNuMDBndjQzUFJFbWo1T1FvLWFoTTNad2tDSno?oc=5",
+      "source": "MS NOW",
+      "publishedAt": "2026-10-06T13:42:50.000Z",
+      "dealType": "DCM / Leveraged Finance",
+      "region": "Global",
+      "dealSize": "$81bn",
+      "excerpt": "Paramount closes $81 billion Warner Bros. Discovery deal, forming new Hollywood giant MS NOW",
+      "score": 73.6,
+      "alsoCoveredBy": [
+        {
+          "source": "ABC10",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYW52bGtkUWdqLTRXcGt6bm03T21QM2ZwUjZvaHp5c2ozLXJxTWhDdkozVUVseF9PR1pUMlhuVEY5SjBIZ1RJN1hycGZzUE1aR21jTDhLOEdiV0NxVTFzMmE4bGFHZzJiNEtOSFNoRGVCa0NRVjJlNVpMOWp4NG45MUZlNlNCRFR3YXNrRS1vN042OTVibGpuTHBJUXIyMHN2c1EyWTZVWV8zVjR6dWJ5Q25iQTdpOENSdU9YVmpTWmxZOUdfVGZuSGpnQ1Q0b21sNjhJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nea9ba64e",
+      "title": "AELEX advises on historic $1.5b Dangote Refinery IPO",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQllNb01WeV9SbGlRZ3BZOHhVY0Vrd0FWRUZ4VEdVOUh3SGdqVUVmcFV2WmtueS1IalFiSEdVWkFDT0NfcnctaUJzZjV3NDhWYWRHam9DMUlMU3NONkVfREZUUmZ3cXR3bk4tZE54emN3VDNNS0E4RDBiTWhsM1Zsc09ZVW5EMTB3QlHSAY8BQVVfeXFMTWtuRko1S0F0SnhFcDBBT2RHakRkc3QteTBHNEx1ZDM3RE56NmdPQW9WNlJYeGV4RXkydjIxb1ItaGw1VkxFS19fRVpuaVMtR253cWVIRXVUMWNlQWVqcVg1V2c3UjZfem10YWtScmhhX2lQcjVvczQyRFB1YURzdmlsNm1qYzdMazlIYkszYkU?oc=5",
+      "source": "The Nation Newspaper",
+      "publishedAt": "2026-10-09T04:26:31.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Global",
+      "dealSize": "$1.5bn",
+      "excerpt": "AELEX advises on historic $1.5b Dangote Refinery IPO The Nation Newspaper",
+      "score": 71.1,
+      "alsoCoveredBy": [
+        {
+          "source": "Head Topics",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVG15bGxERGJfeFkxWmFIN1B2UzNqVzZlUkJLaUgwWWlLLXVuOTNwa1RBM2IyM3dnSF9CMk9nT05sM0o1Zmhfb2JRZHUyYkstTkZ2eUpFSWVlaXhkZ3NORlB5MVhRazZYdFhmeVFRVUhNTk5wVGlPY0UtRk5WazVYc2lxSi1HdERiTlJVVTB3N3NKamlIVkZudEQ5Q3ZsNFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n84cd978d",
+      "title": "Option Care Health Soars 33% on $5.8 Billion Buyout by CD&R and McKesson: “A Great Outcome”",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmw4ekFzVTFUbHBwRDFKWjBLc0kyM0xadDFwZ19UbmVJWVhoUXFoOFFQWXl6cU1vLTNHZmM5TXlBczFpXzVEeDBhVW4tRWVodWlSYnUycEN1MnlXV0FoamRsVVdwcl82SmJ4RHRCdkk0RHFtc3hqOWQ4RVVwS0VyREduTDhPRjFHNVllaWxmcHV2MXljVkxXd3BWb0dUd2RGV2oxUl9HeGxNdTR0aFBDWA?oc=5",
+      "source": "TIKR.com",
+      "publishedAt": "2026-10-06T13:43:11.000Z",
+      "dealType": "Private Equity / Buyouts",
+      "region": "Global",
+      "dealSize": "$5.8bn",
+      "excerpt": "Option Care Health Soars 33% on $5.8 Billion Buyout by CD&R and McKesson: “A Great Outcome” TIKR.com",
+      "score": 70,
+      "alsoCoveredBy": [
+        {
+          "source": "finchannel",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObXBoMDlWVFR3WXp0N0UtMldXMHN6UXFydDIyZUFUVGJJTXQ1ZmZHQjg4OWZScTZNLUhGdFFZb3pQUmRUcEdjbWp1NXBpNE9iaEFiV0lZZTBzbWNPLTlNVEEwbndUd1lteHNfd0hLNDJjejBBQi00U0tMeWJNb1V1SVA0aEdua3pHQlRiX3dxcE9aMXhMRXhXbVV6UmI2V21zTXRub1VKbnNXNEF1MjBOb0t1WnIxbHRCV05STjBSbE1oRk5EY18tUGt1MTM1QTBEdDlybnlIaTRIMUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n4568571c",
+      "title": "David Zaslav Scores $606 Million Payout From Paramount-Warner Bros. Merger",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVQ1Z0JRakpZcUtPcEtrdFZBeUxzZTJ2c2ZhSkFyazhJUXg2M0tXWlJwcDkyMzB6d0pPeUU2LWxHQnhOY0ZBQlBHSHluZU1VaGVCZFRHSVhqNnlZeG9MYzJ0UGUzUnFWdGl4a0NSaTc3WVFVZDFxaHZ3NFJ1R1o0em9rb3pkTS00eGRod0dQa3BDTm5hamxGUU15eUUxbGNhdlN0T1MtS2lVUQ?oc=5",
+      "source": "TheWrap",
+      "publishedAt": "2026-10-08T21:40:29.000Z",
+      "dealType": "M&A",
+      "region": "Global",
+      "dealSize": "$606m",
+      "excerpt": "David Zaslav Scores $606 Million Payout From Paramount-Warner Bros. Merger TheWrap",
+      "score": 69.8,
+      "alsoCoveredBy": [
+        {
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vUGxjUGVRSW82RDJnek1uVEN6ZThNOWZWSm9tZXBHcUFGU1QxMFpGZXdwYXF1bnhaV2lqVkJRVFRuSFU4alJOdjZvVHhQdFlEcWQ1OWNkOGplcUdxUDd5MVNIdWUwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ncaf688d3",
+      "title": "Transsion Holdings Launches Hong Kong IPO Today, Raising Up to Over HK$3.3 Billion",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85UDUzc0JyLXJJa0hMTktlcmNzMTNMWll6clc4cFFUS3Y0QjBXcjJNRTgzQUE1eUpIRzlrSG1TclFFV1RCRER4U2t5dm5TdmQyd0hsaWJLZXNWa1FQdkp5Wko5RzZjZGw2VFl4Tzd6NE40VEpEZ0E?oc=5",
+      "source": "BigGo Finance",
+      "publishedAt": "2026-10-07T03:05:00.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "APAC",
+      "dealSize": "HK$3.3bn",
+      "excerpt": "Transsion Holdings Launches Hong Kong IPO Today, Raising Up to Over HK$3.3 Billion BigGo Finance",
+      "score": 69.4,
+      "alsoCoveredBy": [
+        {
+          "source": "Billionaires.Africa",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQU9IbXVJeDhMYW96Q1N3d0pBZkNWYy1FaXJFa3pzTWlaWGhsZGpfN1dSdFAxTlpEc1hQWXJlYXFTd3hWU2liVEZKUTZZRFd1c2Z1eUJoNFR4Mzg3V3hjcE81dFhFS29pMUxBRFJpOWJ2cV9ndzRodkt5WHMtUmNQWEVqbHoyM0tlSmNTUGtCaTU5UXpXU1BDYlRlSHJic3c2ZjdmUWQ0RHdCTXdLVUJCaEpxSlNSMDF4OWk4bklvTU8yWDNkTnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nad1eb73e",
+      "title": "Aphias Capital Closes Inaugural Private Equity Fund at $1.05 Billion",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ3lKc2pCTWxvcjBNSzJ1UzdhdWRRMktxSnlEX3RNX3RvS09XWUZKT0tnVGJrbEpFNGRMQ0d0RS1WLThaY0lES2tUTjVqZ1B1dTNUdXhnM3EtUHJBYjJzbVRfekZRY3ZodkY4RUlIYVFWRVZ0VnN0cks2SEhfbC10QmpCcWhaNDEtQWI5WHptVmFibjNzU2s5c092QkZ5RFhOQWk0b0x5SkE3QQ?oc=5",
+      "source": "citybiz",
+      "publishedAt": "2026-10-08T13:52:09.000Z",
+      "dealType": "Private Equity / Buyouts",
+      "region": "Global",
+      "dealSize": "$1.05bn",
+      "excerpt": "Aphias Capital Closes Inaugural Private Equity Fund at $1.05 Billion citybiz",
+      "score": 68.8,
+      "alsoCoveredBy": [
+        {
+          "source": "HedgeCo.Net",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTVucXM1UmQ3LVpWbTB1bXVuVHl1S2xfdTRIdTZIUXoyc29LenQxUEw3bEpLdFJXZ2ZPck5aaVpGeHVDTG00ZkpIWDhIRm9YMVNjWVloVGU3ZEpxMllXRHZkQ1FnOUxOUko1aUxscmxpZVc5WUZtVW1Qa0dzelN6SWtReDlYazhiRDQyVFpQVl9oU29tUDgxelk4N2Q1TkxpRlpfTW5EZFNqLU5VZVRwQk9PMExPUTN2dmVCaGRSSXJiS3RYbV81OC1iMFNSZlM1SWtNaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n0db2116f",
+      "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQlNkTklVbTdBNXJIVkR1NGczVUQwd2VzcFJaUlJlTkpLT2s0cnllbHZRMWlVLU9OLU5kWjJOTFJPa3hnSlBEQTdKT0w2TjlSWFZPQkJ5dFUtRlE2Q0sxUm9MbF92TS1Tb2p3bTR3c2Jha2k0cTAxdExIRmNveHR0cHA1eEZlc3lVYkZrZHhzUlVqZktiZnJVejEwZldKT19NbHIyWjg0Wm1HT2VyS2ZLbW5CSnJoZE1FczYtc0Q3S3ZqZVZTMUdxN3QxYlN4UWhsZy1EUDJraWtZQlc5?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-10-11T07:02:47.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "APAC",
+      "excerpt": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO TradingView",
+      "score": 68.1,
+      "alsoCoveredBy": [
+        {
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5"
+        },
+        {
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTUlTeXd1VVB3SUpfX1NPMDhseVAwUi1HSEJKQWd6Q3BudGNHN2J6c1N4dm9oSXlrRHJaNE11UmlSRGR0LXQtZzRxSXRNTnd4MHlaaVhmMXZOSTd6ZmduN05MeUFNQ1EzSDhlZkk1OEM5SVpBODUtNURIQlNFdFJldHd1VkpDOG5nS3JhNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ne9606d04",
+      "title": "Distribution Solutions Affiliate Prices Upsized $800 Million Notes for Buyout",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQldKUjdseE40Q24xNFZfdk9iS0MxWWpvUXBfOHNuZlpHdF8yS2JGR2VobzRONDVJdGprVDk0aHBWbUcwRTZtbFk1SzJhN0hJMjdaekhTYzFYWWJ5RFRqRjM2d0cwU1BCdWRuTm9uNmh4ejdOVmtRUzVRb2Q0eEZzNDRDd2hjTlVtUmVSTy1QRHZ6WnE3dGZfUnlmbzFEQWI3Mmh3OE5oWGR4OGFlemVfSzFn?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-10-07T20:18:53.000Z",
+      "dealType": "Private Equity / Buyouts",
+      "region": "Global",
+      "dealSize": "$800m",
+      "excerpt": "Distribution Solutions Affiliate Prices Upsized $800 Million Notes for Buyout Yahoo Finance",
+      "score": 66.5,
+      "alsoCoveredBy": [
+        {
+          "source": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVE9KcEptUzZSaWZYQnlEdVdJUlRqR3g0VlRCUnVxZmJRWXBkRGpFcFZqVHd1UUJ6TTZKVFFDRXFTaTRlMzd3SmQxbEZsUUNFTWlUakxuanJzNDdRVFFFRnYxNGNsYm1EWFhpdy1zdGM2OFNkRGl5a2JTS1VaV1VaS1UxLXRoUmpoNGwteTA4SDhpN3c0XzVuLWZDVkNkWVV0Y2JUSlQ3Y1RJdUdRT2xfNTdNd1BvU3ktSkpFcURSeENkbk4zUUJRNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n842a4c9e",
+      "title": "AI startup Manus raises $500 million after Meta acquisition blocked by China",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40RGpEVDZZR0wzSlZ3MmhkWFNma2NxUFlnNjNVbng0LU1YeWpaMWtKSGRZRFZMWVBZZVFOaEE4aEhVTVZhdGxpZi11WFc5U2NGQXFNTWNPY3RDZWl3VVhSQnZ3RFdUaXRUMU5ZRy1iWUZxTFpSeldXaUxn?oc=5",
+      "source": "Tech Xplore",
+      "publishedAt": "2026-10-08T09:20:08.000Z",
+      "dealType": "M&A",
+      "region": "APAC",
+      "dealSize": "$500m",
+      "excerpt": "AI startup Manus raises $500 million after Meta acquisition blocked by China Tech Xplore",
+      "score": 66.2,
+      "alsoCoveredBy": [
+        {
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3J0aFR5SXlFV09UT0d6VFJRc3NxLUU5UUpLSkJKaGJleV9DYzJDblhMcW9EYkxvSXpXNTdjZWFob1AxZ3phY0R4REZWYW9qNng5TXpCSUJHZHV2eGUtejRBQWxmWC1VVms0RGFJQlBWbmp5dmNlcDhkQUpZY1FJUlBpU0lGU2lfOFZJWmlfd3dISHVnSEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n81f963d6",
+      "title": "Airtel Mobile Commerce N.V. (AMC) Announces £1.96 IPO Price and Details for London Stock Exchange Listing",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQTNnMl9Vd284YUpMN2VVaVpkb1FjTGJzZnJQYzZBejJDSWVnT2JfOGxyMEpzR0hnVTR5YkI3X1d2cC1TVjFMbWtoYy05a3d4cVNsQnh1Qm9uY256aUhGU29tQWQ1OThwUmR5Q1FoYkNSMm03bWZONE1XRDNnTkE4aWJzTW9SSXJaVHJ2Q3pyczExQmtHbGlrb1VsZ1VuS2cyaFFVek5JZElnU0VSRndPYW9uV1pnek1lREp1SXJhRkVWaDhDVEdkSXNGd3Z5cHQybHJWaXk4TzhTekhTUTJYQXd3?oc=5",
+      "source": "Kalkine Media",
+      "publishedAt": "2026-10-08T23:00:00.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "Europe",
+      "excerpt": "Airtel Mobile Commerce N.V. (AMC) Announces £1.96 IPO Price and Details for London Stock Exchange Listing Kalkine Media",
+      "score": 65.4,
+      "alsoCoveredBy": [
+        {
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1gtS2E2YzZ3dWtrd3VkbE9FTWRacVluaU9Ydm5FaTJtd0R0cUcza3NOTk9UdWtmQ0VMQXplb3RtLWppX092bjZXZmFzZzJhbjBqTUwxR0dsN096Y3E5OC1sbEpfX3htMW5abE4zRWhCZWs0Zy1ZZHM4MHZJWUpRLWN5cVBfWnY3cjRmQ2dTOHdMSXJZc3JrY3hmc1RFZjJYbXIxRUxINEtLMTlRbHF6Nzk1bnNwdw?oc=5"
+        },
+        {
+          "source": "MarketForces Africa",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdWdNMmZzWGhuWUMwam9kZmdaZjJYY1RTMU5ROTBoWWFRTUx3cWRVVzFIdUdkb0QxMmZIMU1ORFVDeXZjRlVSWFZZU0E5TlVYeHdLOExkZTNKeEdvVXgzbEtDZHNRMVgwTWl5NE9BdnJ1OUJNRkN6RTR2NkE3SHJCQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nf8465b9a",
+      "title": "OFA Group Completes Acquisition and Title Registration of Tokawa Coastal Property in Choshi, Japan",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2ZoR19FWHVGa3M3R1F6WmdRM21PZjdmX0dGdXBMU01ZUTZGUjFSU2tBQm1iVzNPNUpscnZvYW1samk5N3pFRTNRZjB2VHozbkhvZXVpN2pEZkZIS214VmpMVzhkb2lKX0EycElJX3BlNXQxTHRMQm1vN2ZpdkNpRW82b1hEblVTdThsOHBwOC12aHBTTGMxc0FuYkZfTmhGREpxY2N5TW56Y0JHWmdfeEVqVFdYM3VIRFE2ZDhxNFJIY1Z5V1pBVlI5YVZFcGdrUXBhVEo0S3Q0dWZCZGV1TnYyZWttUkVTTFZXckluWnA2MG5yUFFTbkM2MUtGUQ?oc=5",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
+      "dealType": "M&A",
+      "region": "APAC",
+      "excerpt": "OFA Group Completes Acquisition and Title Registration of Tokawa Coastal Property in Choshi, Japan GlobeNewswire",
+      "score": 64.5,
+      "alsoCoveredBy": [
+        {
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPd3M1ZkJvZGNkcXVZNDZFUENjb2s3ZmVWRkFxRXN6WEJicGRaR2MtVEZkb0tPV1lYVU94TEJ5RTZDUnJMcjB4dWstZ0phRS05WDFrSHltS1dRWmlUMDRveTB6QnJHdFlEa1p4NkY3SEZxWFpuNFA2ZVVyTGFGaGNOR2xOSEd6UjNsdWpBQWdFcXpsazIwTElJaWNKY1J1ZVowR0JxR0xkUzQ2djJhT2R6dVhWSlo2U2EwN08tR0ZhUy1hSWtxdUx1aGpNMy1MblQ2WXBZNEhDQ1lfcU1hTVQ2cUFQVE1FY3JFZHZvaVZmSXJVelcwSDA0eUdkUQ?oc=5"
+        },
+        {
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDhnQVM1anllcEZjR1ZHV2VQaU5fVDFmWm1FNFVUNmUwWHNoV3hUWXRiR1dydnZic01WODd4MDRWa3lrSnRRVUY1dE9xck5iOUlHMDJlV0o3WEN0dkJ3YjFzdnZMT0dGaGlkV0VwclQ1NDZhNjBGMUw3V0RsTnJtZ0c5UEJKRGotSkpsUWFJaE9KOXRjbjN6ckNDN2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n8883898a",
+      "title": "Partners Group launches private credit income fund",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXpPX3BSU1E1MnYxMGxVQlM1VDVtNm1VTklHUWJqR3NTck5UWnpuUzdWMFlWTnBnc2hWTUNiYzNDVkJyTktjbDctY0NUcVNyaE5OZGV0QW1PS1NZbGNqQ25EWVZ0Tk5rRXZRN2RzeE9oaTZxWDlQbWFaOERNQjRScE10VmJMRERiem43QTYxWXNwalZNVEpKZ2Y5b1RMV0J3RlE?oc=5",
+      "source": "Alternative Credit Investor",
+      "publishedAt": "2026-10-09T09:46:57.000Z",
+      "dealType": "Private Equity / Buyouts",
+      "region": "Global",
+      "excerpt": "Partners Group launches private credit income fund Alternative Credit Investor",
+      "score": 64.3,
+      "alsoCoveredBy": [
+        {
+          "source": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemFxRjBFYnZlXzB4UlFaZ2RaRzl1ckZ4NFpkQTRxektjbmNka01fQWdPTnROSnlUTW1SZU5DZWE3eDFGd1FtXzR3RkJVYWdwT1VNOUpSMWYzSXNYOFE0ZlJxMWgzWUZ6QVpqYlpBa0pqN1FoRWJUUEs1U1NSYWJudl9YR1RFd29oNGdTUmw0VVEtb01UcnFURmJyRmFoMHlybklVekpRRQ?oc=5"
+        },
+        {
+          "source": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek1teXFGUnFzbnRqSjQ2a0dGeWFlVDV0Y0wzM2lWNDNoZGt6dXBhWVpORGN4Ri1fVHZjeXpvYnRJa08xcTA4WTJ4X2dLd2Y2QTYtQ0tjakVKdkg5YkpMQi1FQllfQ1AyVnZTY2pMZ180akVReFVWSEVDc0hZLXdYdGNHTlN6dm9aYUs3dEU5R1ROeXVwLW5jemVR0gGfAUFVX3lxTE9XMTJrd0d6bEQ5OWgwLXRhMk9RVkRVWlMtQ0huSXhRZ05xbHZQdXNyMURiOXRlc3BNTk9WRlBkaGV5Q2dab3p4bWpkdUd3clZnVXNUa3VNR1VnRmJ6YzdBOVJoQndSTVdTSnhUYTh1NHM2bEpDbFNldktnZE5adFBFcm9GM1V6cFlYcU9zRURKVTlZQldiUUUwNldra0Q5VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "n884af876",
+      "title": "Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTJwSjBsUTZxRHdGdjFtdzhaaENOcTZlc3doaHVvdl9mWlJWWnNyLUFlQ2tIbk5IN0paQjVUZk9BTHNIclN0SDd4LXN1ZG9hWlREdDZjUXU2aFdBS016NFNtbTNGaDgxRFMxSmZCWXNLTS1DdVI0YjNjQUFVQWdPV0RLNTBpWnZ4UGZxRFZDUV80OGhlMFB1aEZYcXVLeGQ4NS1z?oc=5",
+      "source": "WSJ",
+      "publishedAt": "2026-10-08T22:57:00.000Z",
+      "dealType": "ECM / IPOs",
+      "region": "APAC",
+      "excerpt": "Nvidia-Backed Firmus Scraps Australian IPO, Citing Market Conditions WSJ",
+      "score": 63.4,
+      "alsoCoveredBy": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbml0OGU2aWNxeGxjNDVwTFRTZmFlLWRybzhNQnFibGpROVV4YkNWLU55cGJlYnlYVGJKUDU3N05LbEh5SXFJX1RxTjVlU2F5V0EyWmlsVzUyamV5TExUY2x5TmUtODBpNXgxUEJ1UGpfazBuVUNaV01ra2l2OVRoZ215a0Y5Zkh0RHhuWnlHODlSXzJCemgzNENzU1ZzV2JUTGg0dXBuYmY4Zw?oc=5"
+        },
+        {
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMmdLRHRyeDk3OGFjdHA2YkJjREFLZDNxNENsWFdpN3cyOW1xQTRkRUtvY1YybXg4UzVwNUw4R1hUTFFDVVFibTRIX1RVZTc3MGZzWTN6ZmxNWndfcFpyVVZXRFNLV2tuSEHSAW9BVV95cUxORUQtcGkxbXJITWdJV2NCbUtWbEliczgzdHhTbWVXX2Z4blcxdy04TmxseUZYOXh2ZjlCYmY4b0FKZ2sydnZaLVJvcENoVll3MXN5aktLRkdWWkRORU5xbGtHQzFyQzFnLTBCSzBJRVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "nc9ec5c3e",
+      "title": "Braskem Creditors Balk at Restructuring Plan as Deadline Looms",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaS1TR0NxdTRMRTBSRXdrajVvVTdFLVZUQ1pCendEck9pa0VPeXlFdHFja19VVlMtc2pqdG9uWk1sdU5URnEyWGN3YUZUOHVFMi02c0lGb2p4ODE1YldiUDZYcmFwcTVVSE80QTk5d0twUWZnMmUtSFBJSUZ4S1hVYXVZWUhndmJCT19SWEh0VEJfZ253bWZ5azhrNlB0TVFxRk1Kd0NwN0RtOWNmR1lSTzVFRQ?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-07T21:41:19.000Z",
+      "dealType": "Restructuring",
+      "region": "Global",
+      "excerpt": "Braskem Creditors Balk at Restructuring Plan as Deadline Looms Bloomberg.com",
+      "score": 63.3,
+      "alsoCoveredBy": [
+        {
+          "source": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYnB1aDU1VXl4TFBvV3JKemtNVmVmeUJLQkRhS1ZNT1ViVGFHWkdPWnAwNUNtUmZ1WVJNYkxtbGZvd1IzQzhMRS0tcXNJYmJvWmNXR2YwdmdJaFpYbURZbExuU1dyNGp1a3k2SC1faEpwS3dqc0dzVGlCMVBqdVN4MkpQdUJoV2Q1YlY1bGZKZ3dtc2R1V3FScVdFNXBwSmRHb0Q4c0ZPQTBZbnFsQ1pZT1pEd2Ywem04U3Fz?oc=5"
+        },
+        {
+          "source": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSlE0cjRlamdHV0VPaFM4OUpYQWRuNXVpTTlJWjJCMTJ0clNCZWx1M3lhNmdJQVdQdnQtczdiRkJ4ME8yUm96cGtIWks4VFpyWXIzUVA1SnE0cGRtY0NYR2lTVmc3a09iMU55cV95TW1XdHh0TkNRcjNaVzRsc3NGUms4d1ZKeVhRNXdtSWtCSFNMR25TMnp2QncxY0EyeVliRVdOemVsUDN2SDRjUTRsblQycGdYOWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "neae61701",
+      "title": "Blue Bird Closes $600 Million Credit Facility Refinancing, Extends Maturity to 2031",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLURvX3VUUWlJQTdHSG1naWJJTzlBQ3p4d3l1dm93Q0dlSGhGZzZ4WTBDQWtwcVp5N05pM2Y4dnktdmxCMTJpeEpHd2tkUkdvOFhSYVNpN09OdUJsQUFudEZEZDNvMjBTSzNyZXFkVFNGZEpySGcxazhFVE9fTWNXdzRHLUg2V25HUVZXSk1nQmxsa2pndno0dXN0eGs0TlpMVjZia24xb25SNGloazVnYkNjcVVYa2REYVF4WGZIUXRIX3NXcWR0eDFDS24zTWgzRWJiamhPZ1U?oc=5",
+      "source": "Business Wire",
+      "publishedAt": "2026-10-06T12:30:00.000Z",
+      "dealType": "DCM / Leveraged Finance",
+      "region": "Europe",
+      "dealSize": "$600m",
+      "excerpt": "Blue Bird Closes $600 Million Credit Facility Refinancing, Extends Maturity to 2031 Business Wire",
+      "score": 63,
+      "alsoCoveredBy": [
+        {
+          "source": "ABF Journal",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnQzOUFFZEFtbWZ6VklCNnM2Z1BiRXJxaWhHTGd4RzlodFhfa2JHZXJ0RTB0U3JNSE5iZ2FtN0pKYVpFWVNnbVZnaUNBQ25rdzFKNHpkN2hkU0QxQjRqQ3E0WVh3NVQyUTJhYm5ZNGxvMDV1ZzluZi11ZFJjM1FBM2RiMUlZc2xSODJleHpBWVJJY1B2V2ZvbnE3ZUZReUU?oc=5"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-10-12T06:16:41.856Z",
+    "sourcesOk": [
+      "CNBC Finance",
+      "CNBC Business",
+      "Wall Street Journal Markets",
+      "Wall Street Journal Business",
+      "Financial Times Companies",
+      "Financial Times M&A",
+      "NYT DealBook",
+      "PE Hub",
+      "Private Equity International",
+      "LatinFinance",
+      "Google News · M&A",
+      "Google News · Private equity",
+      "Google News · IPOs",
+      "Google News · Leveraged finance",
+      "Google News · Restructuring",
+      "Google News · Europe deals",
+      "Google News · Latin America deals",
+      "Google News · Asia-Pacific deals",
+      "Google News · Middle East & Africa deals"
+    ],
+    "sourcesFailed": [
+      {
+        "name": "PitchBook News",
+        "error": "HTTP 403"
+      },
+      {
+        "name": "Mergers & Acquisitions (The Middle Market)",
+        "error": "HTTP 403"
+      }
+    ],
+    "totalFetched": 916,
+    "totalRelevant": 681
+  }
+}
